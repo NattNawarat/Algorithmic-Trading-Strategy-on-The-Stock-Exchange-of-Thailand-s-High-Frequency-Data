@@ -1,0 +1,2 @@
+This Directory is intendtionally left blank.
+You have to provide OHLC data in 5 minutes interval of each sector by youself.
