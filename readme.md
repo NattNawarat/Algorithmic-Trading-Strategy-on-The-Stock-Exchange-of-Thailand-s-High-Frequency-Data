@@ -26,4 +26,4 @@ Software requirement and version when this project was made.
 
 ## How to run
  1. Make sure you have Sectors' s price and Stocks' s price in "SectorPrice" and "OHLC_5m" directory.
- 2. run dash.py
+ 2. run dashboard.py
